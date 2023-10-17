@@ -1,0 +1,4 @@
+﻿  Homework-Three_Stone-Williams.cpp
+C:\Users\Stone Williams\Desktop\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams.cpp(60,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Stone Williams\Desktop\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams.cpp(69,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Homework-Three_Stone-Williams.vcxproj -> C:\Users\Stone Williams\Desktop\Homework-Three_Stone-Williams\Homework-Three_Stone-Williams\x64\Debug\Homework-Three_Stone-Williams.exe

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Checkings
+comment1.params=id\ balance\ name\ type\ freeTransactions
+comment1.target=Checkings(int,\ double,\ java.lang.String,\ AccountType,\ int)
+comment2.params=
+comment2.target=void\ deductFees()
+comment3.params=transaction
+comment3.target=void\ logTransaction(java.lang.String)
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LineItem
+comment1.params=
+comment1.target=LineItem()
+comment10.params=
+comment10.target=void\ calculateTotal()
+comment11.params=
+comment11.target=java.lang.String\ getTotalFormatted()
+comment2.params=product\ quantity
+comment2.target=LineItem(Product,\ int)
+comment3.params=product
+comment3.target=void\ setProduct(Product)
+comment4.params=
+comment4.target=Product\ getProduct()
+comment5.params=quantity
+comment5.target=void\ setQuantity(int)
+comment6.params=
+comment6.target=int\ getQuantity()
+comment7.params=
+comment7.target=java.lang.String\ getQuantityFormatted()
+comment8.params=total
+comment8.target=void\ setTotal(double)
+comment9.params=
+comment9.target=double\ getTotal()
+numComments=12

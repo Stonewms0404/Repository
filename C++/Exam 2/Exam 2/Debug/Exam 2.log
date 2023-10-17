@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Stone Williams\source\repos\Exam 2\Exam 2\Source.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stone Williams\source\repos\Exam 2\Exam 2\Source.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stone Williams\source\repos\Exam 2\Exam 2\Source.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stone Williams\source\repos\Exam 2\Exam 2\Source.cpp(162,26): warning C4101: 'shift': unreferenced local variable
+  Exam 2.vcxproj -> C:\Users\Stone Williams\source\repos\Exam 2\Debug\Exam 2.exe

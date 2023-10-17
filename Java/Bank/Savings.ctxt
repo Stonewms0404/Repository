@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Savings
+comment1.params=id\ balance\ name\ type\ interestRate
+comment1.target=Savings(int,\ double,\ java.lang.String,\ AccountType,\ double)
+comment2.params=
+comment2.target=void\ addInterest()
+comment3.params=transaction
+comment3.target=void\ logTransaction(java.lang.String)
+numComments=4

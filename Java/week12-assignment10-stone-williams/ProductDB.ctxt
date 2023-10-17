@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ProductDB
+comment1.params=productCode
+comment1.target=Product\ getProduct(java.lang.String)
+numComments=2

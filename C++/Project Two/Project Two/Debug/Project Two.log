@@ -1,0 +1,9 @@
+﻿  Project-Two_Stone-Williams.cpp
+C:\Users\Stone Williams\Desktop\CompSci2\Project Two\Project Two\Project-Two_Stone-Williams.cpp(22,1): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Stone Williams\Desktop\CompSci2\Project Two\Project Two\Project-Two_Stone-Williams.cpp(22,11): warning C4309: 'argument': truncation of constant value
+C:\Users\Stone Williams\Desktop\CompSci2\Project Two\Project Two\Project-Two_Stone-Williams.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+  Project Two.vcxproj -> C:\Users\Stone Williams\Desktop\CompSci2\Project Two\Debug\Project Two.exe
